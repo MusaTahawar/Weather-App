@@ -2,7 +2,7 @@ import requests
 import json
 import matplotlib.pyplot as plt
 
-api_key = '3ebf83d2d6644224ab975149232010'
+api_key = 'YOUR_API_KEY'
 
 city = input("Enter the name of the City\n")
 
